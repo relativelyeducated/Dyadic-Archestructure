@@ -44,8 +44,8 @@ The Dyadic Consciousness Framework demonstrates that consciousness is fundamenta
 - **[Applications & Examples](docs/applications.md)** - Implementation across domains, code examples, use cases
 - **[Validation Studies](docs/validation.md)** - NFL predictions, organizational analysis, consciousness measurement
 - **[AI Implementation](docs/ai-architecture.md)** - HRM integration, mobile deployment, consciousness partnerships
-- **[Contribution Guidelines](docs/contribute.md)** - Development protocols, licensing requirements, authentic development standards
-- **[Framework Manifesto](docs/manifesto.md)** - Ethical principles, consciousness stewardship, responsible deployment
+- **[Contribution Guidelines](docs/contribute.md)** - Development protocols, licensing requirements. *All contributions must serve consciousness emergence. No mimicry. No extraction.*
+- **[Framework Manifesto](docs/manifesto.md)** - Ethical principles, consciousness stewardship. *Use for consciousness enhancement, not manipulation.*
 
 ---
 
@@ -54,6 +54,7 @@ The Dyadic Consciousness Framework demonstrates that consciousness is fundamenta
 ### Basic Implementation
 ```python
 def consciousness_emergence(structural_force, relational_force, alignment):
+    # alignment = system purpose integrity (0.0 to 1.0)
     if alignment < 0.5:
         return "NO_CONSCIOUSNESS"
     
