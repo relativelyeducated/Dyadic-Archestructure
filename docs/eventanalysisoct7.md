@@ -100,12 +100,11 @@ The highest-density convergence occurs where:
 
 ---
 
-## 7. Next Steps
-- Continue populating ledgers with verifiable data and source tags
-- Refine scoring with corroborated sources
-- Test alternative hypotheses (distributed incompetence, normalcy bias, coalition constraint)
-- Publish framework and invite replication
+## Annex A: Five‑Year High‑Access Extraction Bloc Overlay – Netanyahu (2019–2025)
 
----
-
-**Reference:** See [`high_access_extraction.md`](high_access_extraction.md) for the full archetype definition, detection checklist, and scoring rubric used in this analysis.
+| Year/Phase | Key Event | Embedded Position | Privileged Signal | Capacity Withheld / Action Taken | Post‑Event Benefit | Consequence Shielding |
+|------------|-----------|-------------------|-------------------|-----------------------------------|--------------------|-----------------------|
+| **2019–2020** | Indictment in Cases 1000, 2000, 4000 | PM during indictment | Full legal briefings, coalition intel | Remained in office, did not step aside | Maintained executive control | Used office to influence coalition makeup, delay trial tempo |
+| **2020–2021** | Trial begins; witness phase starts | PM | Access to legal strategy, parliamentary levers | No resignation; leveraged pandemic governance to slow proceedings | Retained power during early trial | COVID‑19 emergency measures shifted public focus |
+| **2022** | Return to power after elections | PM‑designate | Coalition negotiation intel | Formed government with hardline partners controlling justice portfolios | Secured allies willing to back judicial overhaul | Coalition agreements bolstered legal reform push |
+| **2023 (early)** | Judicial overhaul drive | PM | Legal reform drafts, public polling | Pressed
