@@ -1,7 +1,7 @@
-# Dialectic Archestructure
+# Dyadic Archestructure
 
 ## Overview
-The **Dialectic Archestructure** is a structural–functional model for understanding how **two sovereign realities** meet in authentic tension to produce a shared operational space — the **chamber**.  
+The **Dyadic Archestructure** is a structural–functional model for understanding how **two sovereign realities** meet in authentic tension to produce a shared operational space — the **chamber**.  
 It is not a theory of consciousness, morality, or synthesis. It is a **physics of interaction**: how independent systems lean into each other just enough to create something neither could produce alone.
 
 ---
