@@ -101,4 +101,6 @@ The highest-density convergence occurs where:
 - Test alternative hypotheses (distributed incompetence, normalcy bias, coalition constraint)
 - Publish framework and invite replication
 
+
+**Reference:** See [`high_access_extraction.md`](high_access_extraction.md) for the full archetype definition, detection checklist, and scoring rubric used in this analysis.
 ---
